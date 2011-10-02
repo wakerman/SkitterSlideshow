@@ -337,6 +337,9 @@ function getLinkAnimation($animation) {
 			<a href="https://github.com/thiagosf/SkitterSlideshow" id="botao_download"><img src="images/download-button.png" /></a>
 			<a href="http://wordpress.org/extend/plugins/wp-skitter-slideshow/" id="botao_wp"><img src="images/download-wp.png" /></a>
 			<a href="../../cakephp/skitter_helper/" id="botao_helper"><img src="images/download-helper.png" /></a>
+			<div id="donate">
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="HX6GLMFNNJWVQ"><input type="image" src="http://thiagosf.net/projects/jquery/skitter/images/donate-button.png" border="0" name="submit" alt="PayPal - A maneira mais fácil e segura de efetuar pagamentos online!"><img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1"></form>
+			</div>
 		</div>
 		
 		<div id="box_share">

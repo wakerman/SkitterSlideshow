@@ -23,14 +23,6 @@ $animations = array(
 	'directionLeft',
 	'cubeStopRandom',
 	'cubeSpread',
-	'cubeJelly',
-	'glassCube',
-	'glassBlock',
-	'circles',
-	'circlesInside',
-	'circlesRotate',
-	'random', 
-	'randomSmart', 
 );
 
 ?>
