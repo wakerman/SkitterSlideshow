@@ -44,3 +44,6 @@ h2. Animations
 * cut
 * random
 * randomSmart
+
+Skitter绝对算得上是一款漂亮的Jquery幻灯片插件,堪称完美
+[SKITTER](http://www.skitter-slider.net/)
